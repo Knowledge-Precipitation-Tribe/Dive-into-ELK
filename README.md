@@ -1,2 +1,2 @@
-# Dive-into-ELK
-Dive-into-ELK
+# Initial page
+
